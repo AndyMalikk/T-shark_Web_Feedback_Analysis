@@ -70,11 +70,10 @@ Díky analýze bylo možné lépe porozumět cílové skupině a učinit rozhodn
 
 
 ## 🧾 Použité nástroje
-- **Microsoft Excel** – záznam a zpracování dat  
-- **Google Sheets / Excel grafy** – tvorba vizualizací  
-- **GitHub** – správa projektu a sdílení výsledků  
+- **Microsoft Excel** – záznam a zpracování dat
+ 
 
 
 ## 🚀 Závěr
-Projekt **„Analýza zpětné vazby uživatelů webu t-shark.cz“** přinesl konkrétní a měřitelné poznatky o vnímání našeho webu studenty.  
+Projekt přinesl konkrétní a měřitelné poznatky o vnímání našeho webu studenty.  
 Díky této analýze jsme mohli lépe pochopit potřeby cílové skupiny a nasměrovat budoucí úpravy designu a funkčnosti webu správným směrem.
