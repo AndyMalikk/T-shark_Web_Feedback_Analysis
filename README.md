@@ -1,1 +1,2 @@
-# T-shark_Web_Feedback_Analysis
+# 📊 Analýza zpětné vazby uživatelů webu t-shark.cz
+
