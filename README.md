@@ -4,14 +4,14 @@
 Tento projekt vznikl jako součást interního zlepšování webové prezentace **t-shark.cz**, která slouží k prezentaci našich produktů a služeb.  
 Cílem bylo **získat zpětnou vazbu od studentů**, analyzovat ji a na základě výsledků pomoci frontend týmu lépe pochopit potřeby uživatelů a identifikovat oblasti pro zlepšení.
 
----
+
 
 ## 🎯 Cíl projektu
 - Zjistit, jak uživatelé hodnotí design, přehlednost a důvěryhodnost webu.  
 - Získat kvalitativní zpětnou vazbu ve formě slovních komentářů.  
 - Vytvořit přehlednou **analýzu dat** a **vizualizace**, které podpoří rozhodování frontend týmu.
 
----
+
 
 ## 🧠 Proces sběru dat
 - Data byla sbírána **osobně** (dotazováním studentů na školách).  
@@ -20,12 +20,12 @@ Cílem bylo **získat zpětnou vazbu od studentů**, analyzovat ji a na základ�
   - **3 slovní odpovědi** – co se líbilo, celkový dojem, doporučení na vylepšení
 - Sběr probíhal v **týmu 4 členů**, přičemž jsem působil jako **team leader frontend týmu** a zároveň jsem byl autorem myšlenky provést tuto analýzu.
 
----
+
 
 ## ⚙️ Zpracování dat
 - Všechna nasbíraná data byla zapsána do **Excelu**.
   
-  ![Graf průměrného skóre hodnocení webu](images/prumerne_hodnoceni_data.png)
+  ![Graf průměrného skóre hodnocení webu](images/Data.png)
   
 - Po ukončení sběru jsem data:
   1. Vyčistil a sjednotil formát odpovědí  
@@ -40,7 +40,7 @@ Cílem bylo **získat zpětnou vazbu od studentů**, analyzovat ji a na základ�
      - ✅ Poměr respondentů, kteří našli všechny potřebné informace (Ano / Ne)  
      - 👥 Rozložení skupin podle celkového skóre kvality
        
----
+
 
 ## 📈 Klíčové Vizualizace a Výsledky
 
@@ -55,7 +55,7 @@ Níže jsou hlavní grafy, které jsme vytvořili v Excelu, aby rychle ukázaly,
 ### 3. Nalezení Informací
 ![Koláčový graf s poměrem Ano/Ne u nalezených informací](images/informace_pie_graf.png)
 
----
+
 
 ## ✅ Výstupy a přínosy
 Výsledky analýzy umožnily frontend týmu:
@@ -66,7 +66,7 @@ Výsledky analýzy umožnily frontend týmu:
 
 Díky analýze bylo možné lépe porozumět cílové skupině a učinit rozhodnutí založená na datech.
 
----
+
 
 
 ## 🧾 Použité nástroje
@@ -74,7 +74,6 @@ Díky analýze bylo možné lépe porozumět cílové skupině a učinit rozhodn
 - **Google Sheets / Excel grafy** – tvorba vizualizací  
 - **GitHub** – správa projektu a sdílení výsledků  
 
----
 
 ## 🚀 Závěr
 Projekt **„Analýza zpětné vazby uživatelů webu t-shark.cz“** přinesl konkrétní a měřitelné poznatky o vnímání našeho webu studenty.  
